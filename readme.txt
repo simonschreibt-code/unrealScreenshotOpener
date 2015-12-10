@@ -1,10 +1,9 @@
-The Unreal Engine can create Screenshots and then it can open the path, where this screenshot was placed. 
-BUT IT DOESN'T open the screenshot directly!
-
-This program opens the last created file in the given directory.
+This program opens the last created screenshot in the given directoy.
 
 USAGE:
 
-Hand over the Unreal Screenshot Directory AND the Screenshot filetype (in this case PNG)
-
-uso.exe "c:\projects\unreal\screenshots" png
+1. Copy the /uso/bin/Release/uso.exe somewhere to your PC
+2. Create a shortcut to this EXE for example in your taskbar
+3. Right-Click on this shortcut and add the path and the screenshot-fileextension to the TARGET-Path. For example:
+   c:\programs\uso\uso.exe "c:\simon\projects\unreal\screenshots" png
+4. Click the icon in your taskbar. The last created screenshot should open now. :)
