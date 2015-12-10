@@ -1,0 +1,5 @@
+D:\Simon\Projekte\Code\unrealScreenshotOpener\uso\uso\bin\Release\uso.exe.config
+D:\Simon\Projekte\Code\unrealScreenshotOpener\uso\uso\bin\Release\uso.exe
+D:\Simon\Projekte\Code\unrealScreenshotOpener\uso\uso\bin\Release\uso.pdb
+D:\Simon\Projekte\Code\unrealScreenshotOpener\uso\uso\obj\Release\uso.exe
+D:\Simon\Projekte\Code\unrealScreenshotOpener\uso\uso\obj\Release\uso.pdb

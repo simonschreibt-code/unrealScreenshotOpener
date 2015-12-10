@@ -1,0 +1,6 @@
+D:\Simon\Projekte\Code\unrealScreenshotOpener\uso\uso\bin\Debug\uso.exe.config
+D:\Simon\Projekte\Code\unrealScreenshotOpener\uso\uso\bin\Debug\uso.exe
+D:\Simon\Projekte\Code\unrealScreenshotOpener\uso\uso\bin\Debug\uso.pdb
+D:\Simon\Projekte\Code\unrealScreenshotOpener\uso\uso\obj\Debug\uso.csprojResolveAssemblyReference.cache
+D:\Simon\Projekte\Code\unrealScreenshotOpener\uso\uso\obj\Debug\uso.exe
+D:\Simon\Projekte\Code\unrealScreenshotOpener\uso\uso\obj\Debug\uso.pdb
